@@ -1,0 +1,17 @@
+# Eclipse
+bin/
+.settings/
+.classpath
+.factorypath
+.project
+
+# Maven
+target/
+
+# Compiled bytecode
+*.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
